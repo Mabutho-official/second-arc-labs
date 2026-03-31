@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-7, .cls-8 {
+        fill: #7c61aa;
+      }
+
+      .cls-9 {
+        font-family: DMMono-Medium, 'DM Mono';
+        font-size: 59.9px;
+        font-weight: 500;
+      }
+
+      .cls-9, .cls-3, .cls-10, .cls-11 {
+        fill: #faf9f6;
+      }
+
+      .cls-12 {
+        stroke: #7c61aa;
+        stroke-width: 20px;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12, .cls-4 {
+        fill: none;
+      }
+
+      .cls-13, .cls-14 {
+        stroke: #faf9f6;
+        stroke-width: .2px;
+      }
+
+      .cls-13, .cls-15 {
+        fill: #1d1818;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 21.1px;
+      }
+
+      .cls-10, .cls-8, .cls-15 {
+        font-family: DMMono-Regular, 'DM Mono';
+      }
+
+      .cls-11 {
+        font-family: DMMono-Light, 'DM Mono';
+        font-weight: 300;
+      }
+
+      .cls-14 {
+        fill: #191819;
+      }
+
+      .cls-5 {
+        fill: #1b1515;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #202124;
+      }
+
+      .cls-7 {
+        font-family: Syne-ExtraBold, Syne;
+        font-size: 161.8px;
+        font-weight: 700;
+      }
+
+      .cls-8, .cls-15 {
+        font-size: 26.7px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect id="BG" class="cls-4" width="1920" height="1080"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-84.1" y1="-104.8" x2="1948.7" y2="1150.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e0e0e"/>
+      <stop offset="1" stop-color="#210f29"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-16">
+    <rect id="BG-2" data-name="BG" class="cls-1" width="1920" height="1080"/>
+    <circle class="cls-6" cx="1745" cy="-18" r="327"/>
+    <circle class="cls-6" cx="67" cy="997" r="198"/>
+  </g>
+  <g id="Duplicate_Logo" data-name="Duplicate+ Logo">
+    <rect class="cls-3" x="93.7" y="312" width="448.1" height="448.1" rx="107.4" ry="107.4"/>
+    <polygon class="cls-12" points="408.2 379.7 227.5 379.7 137.1 536.2 227.5 692.7 408.2 692.7 498.5 536.2 408.2 379.7"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(601.5 73.4) scale(.9 1)"><tspan x="0" y="0">DUPLICATE+ LICENSING</tspan></text>
+    <text class="cls-11" transform="translate(1480.5 154.4) scale(.9 1)"><tspan x="0" y="0">Rates in Botswana Pula (Bwp)</tspan></text>
+    <text class="cls-9" transform="translate(602.3 130.5)"><tspan x="0" y="0">PACKAGES &amp; ACCESS</tspan></text>
+    <g>
+      <rect class="cls-5" x="603.3" y="171.8" width="1249.9" height="605" rx="56.1" ry="56.1"/>
+      <path class="cls-2" d="M652.3,171.8h1151.7c27.1,0,49.1,22,49.1,49.1v11.2H603.3v-11.2c0-27.1,22-49.1,49.1-49.1Z"/>
+      <rect class="cls-13" x="603.3" y="232.1" width="1249.9" height="136.2"/>
+      <rect class="cls-14" x="603.3" y="368.2" width="1249.9" height="136.2"/>
+      <rect class="cls-13" x="603.3" y="504.4" width="1249.9" height="136.2"/>
+      <path class="cls-14" d="M603.3,640.6h1249.9v80.1c0,30.9-25.1,56.1-56.1,56.1H659.3c-30.9,0-56.1-25.1-56.1-56.1v-80.1h0Z"/>
+    </g>
+    <g>
+      <text class="cls-15" transform="translate(638.4 216.5) scale(.9 1)"><tspan x="0" y="0">TIER</tspan></text>
+      <text class="cls-15" transform="translate(900.6 216.5) scale(.9 1)"><tspan x="0" y="0">PACKAGE</tspan></text>
+      <text class="cls-15" transform="translate(1140.2 216.5) scale(.9 1)"><tspan x="0" y="0">ACCESS</tspan></text>
+      <text class="cls-15" transform="translate(1497.3 216.5) scale(.9 1)"><tspan x="0" y="0">BENEFITS</tspan></text>
+    </g>
+    <g>
+      <g>
+        <text class="cls-8" transform="translate(638.4 295.1) scale(.9 1)"><tspan x="0" y="0">Designer Tier</tspan></text>
+        <text class="cls-11" transform="translate(638.4 323.8) scale(.9 1)"><tspan x="0" y="0">Freelance / Solo</tspan></text>
+      </g>
+      <text class="cls-10" transform="translate(886.3 307.1) scale(.9 1)"><tspan x="0" y="0">P350 / Month</tspan></text>
+      <text class="cls-10" transform="translate(1104.8 294.4) scale(.9 1)"><tspan x="0" y="0">2 simultaneous </tspan><tspan x="0" y="25.3">logins / devices</tspan></text>
+      <text class="cls-10" transform="translate(1340.3 294.4) scale(.9 1)"><tspan x="0" y="0">Use limited to Duplicate+ default templates.</tspan><tspan x="0" y="25.3">No manual file preparation included.</tspan></text>
+    </g>
+    <g>
+      <g>
+        <text class="cls-8" transform="translate(640 422.5) scale(.9 1)"><tspan x="0" y="0">Designer Tier</tspan></text>
+        <text class="cls-11" transform="translate(640 451.1) scale(.9 1)"><tspan x="0" y="0">Freelance / Solo</tspan></text>
+      </g>
+      <text class="cls-10" transform="translate(887.8 434.4) scale(.9 1)"><tspan x="0" y="0">P3000 / Year</tspan></text>
+      <text class="cls-10" transform="translate(1106.3 421.8) scale(.9 1)"><tspan x="0" y="0">2 simultaneous </tspan><tspan x="0" y="25.3">logins / devices</tspan></text>
+      <text class="cls-10" transform="translate(1341.8 421.8) scale(.9 1)"><tspan x="0" y="0">Includes Duplicate+ default templates plus</tspan><tspan x="0" y="25.3">optional Template Prep available at an</tspan><tspan x="0" y="50.6">extra fee.</tspan></text>
+    </g>
+    <g>
+      <g>
+        <text class="cls-8" transform="translate(638.4 567.3) scale(.9 1)"><tspan x="0" y="0">Manufacturer</tspan></text>
+        <text class="cls-11" transform="translate(638.2 595.8) scale(.8 1)"><tspan x="0" y="0">Enterprise / Factory</tspan></text>
+      </g>
+      <text class="cls-10" transform="translate(886.3 579.2) scale(.9 1)"><tspan x="0" y="0">P750 / Month</tspan></text>
+      <text class="cls-10" transform="translate(1104.8 566.5) scale(.9 1)"><tspan x="0" y="0">3 simultaneous </tspan><tspan x="0" y="25.3">logins / devices</tspan></text>
+      <text class="cls-10" transform="translate(1340.3 553.9) scale(.9 1)"><tspan x="0" y="0">Use limited to Duplicate+ default templates.</tspan><tspan x="0" y="25.3">Linking existing factory files requires a </tspan><tspan x="0" y="50.6">one-time onboarding fee of P2,500.</tspan></text>
+    </g>
+    <g>
+      <g>
+        <text class="cls-8" transform="translate(640 703.8) scale(.9 1)"><tspan x="0" y="0">Manufacturer</tspan></text>
+        <text class="cls-11" transform="translate(640 732.4) scale(.8 1)"><tspan x="0" y="0">Enterprise / Factory</tspan></text>
+      </g>
+      <text class="cls-10" transform="translate(887.8 715.7) scale(.9 1)"><tspan x="0" y="0">P7,500 / Year</tspan></text>
+      <text class="cls-10" transform="translate(1106.3 703.1) scale(.9 1)"><tspan x="0" y="0">10 simultaneous </tspan><tspan x="0" y="25.3">logins / devices</tspan></text>
+      <text class="cls-10" transform="translate(1341.8 690.4) scale(.9 1)"><tspan x="0" y="0">Includes one free Template Prep session to</tspan><tspan x="0" y="25.3">align existing factory designs to the </tspan><tspan x="0" y="50.6">Duplicate+ engine.</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-13" x="603" y="796.7" width="577.1" height="178.6" rx="56.1" ry="56.1"/>
+      <g>
+        <text class="cls-8" transform="translate(624 842.2) scale(.9 1)"><tspan x="0" y="0">Template Prep</tspan></text>
+        <text class="cls-11" transform="translate(624 870.9) scale(.9 1)"><tspan x="0" y="0">Manual organization of your existing </tspan><tspan x="0" y="25.3">Illustrator layers and masks so the software </tspan><tspan x="0" y="50.6">can read them correctly. This does not include </tspan><tspan x="0" y="75.9">software code changes.</tspan></text>
+      </g>
+    </g>
+    <text class="cls-11" transform="translate(685 1025.3) scale(.9 1)"><tspan x="0" y="0">Consultancy, manual file fixes and troubleshooting are billed at P500 per hour for all tiers.</tspan></text>
+    <g>
+      <rect class="cls-13" x="1275.3" y="796.4" width="577.1" height="178.6" rx="56.1" ry="56.1"/>
+      <g>
+        <text class="cls-8" transform="translate(1296.3 841.9) scale(.9 1)"><tspan x="0" y="0">New Development</tspan></text>
+        <text class="cls-11" transform="translate(1296.3 870.5) scale(.9 1)"><tspan x="0" y="0">Coding fee for adding new garment types not </tspan><tspan x="0" y="25.3">currently in the software, such as bucket hats </tspan><tspan x="0" y="50.6">or tents. Starts at P5,000 per item.</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text class="cls-7" transform="translate(224.5 586.6)"><tspan x="0" y="0">P</tspan></text>
+  <image width="1920" height="1080" xlink:href="Production node packages.png"/>
+</svg>

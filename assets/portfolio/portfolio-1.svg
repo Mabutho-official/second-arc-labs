@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-family: Metropolis-ExtraLight, Metropolis;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #010101;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 34.4px;
+        font-weight: 200;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-size: 42.4px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: Metropolis-ExtraBold, Metropolis;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-7 {
+        fill: #6e559c;
+      }
+
+      .cls-4 {
+        font-family: Metropolis-ExtraLightItalic, Metropolis;
+        font-style: italic;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #6d529b;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 86px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-6" width="1920" height="1080"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-6" x="551" y="386" width="818" height="353.1" rx="170.1" ry="170.1"/>
+    </clipPath>
+  </defs>
+  <g class="cls-10">
+    <rect id="BG-2" class="cls-8" width="1920" height="1080"/>
+  </g>
+  <g class="cls-1">
+    <text class="cls-3" transform="translate(1329.8 114.8)"><tspan x="0" y="0">Graphic Design work.</tspan></text>
+  </g>
+  <g>
+    <g class="cls-1">
+      <text class="cls-2" transform="translate(676.4 805.5)"><tspan x="0" y="0">Designing | Branding | Visualization</tspan></text>
+    </g>
+    <g class="cls-1">
+      <text class="cls-5" transform="translate(661.4 906.8)"><tspan x="0" y="0">“</tspan></text>
+      <text class="cls-4" transform="translate(714 906.8)"><tspan x="0" y="0">Products are made in the factory, </tspan></text>
+      <text class="cls-4" transform="translate(651.4 948.1)"><tspan x="0" y="0" xml:space="preserve">     but brands are created in the mind.</tspan></text>
+      <text class="cls-2" transform="translate(833.5 989.3)"><tspan x="0" y="0">| Walter Landor</tspan></text>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-7" x="551" y="386" width="818" height="353.1" rx="170.1" ry="170.1"/>
+        <g class="cls-9">
+          <image class="cls-1" width="1201" height="1504" transform="translate(489.5 22.8) scale(.7)" xlink:href="portfolio-1-1.png"/>
+        </g>
+      </g>
+      <image class="cls-1" width="847" height="639" transform="translate(655.2 19.2) scale(.7)" xlink:href="portfolio-1-2.png"/>
+    </g>
+  </g>
+</svg>

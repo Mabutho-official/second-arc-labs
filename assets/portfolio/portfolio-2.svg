@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #662a1a;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect id="BG" class="cls-3" x="562.2" y="442.7" width="853" height="479.8"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect id="right_bottom" data-name="right bottom" class="cls-3" x="826" y="665.7" width="350.3" height="363.5" rx="81" ry="81" transform="translate(1848.5 -153.7) rotate(90)"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect id="left_bottom" data-name="left bottom" class="cls-3" x="435.8" y="665.7" width="350.3" height="363.5" rx="81" ry="81" transform="translate(1458.3 236.5) rotate(90)"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect id="Left_Top-2" data-name="Left Top" class="cls-1" x="428" y="281.2" width="752.1" height="369.5" rx="36" ry="36"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect id="Right" class="cls-3" x="1201.6" y="281.2" width="425.4" height="741.3" rx="81" ry="81"/>
+    </clipPath>
+  </defs>
+  <g class="cls-8">
+    <rect id="BG-2" data-name="BG" class="cls-4" x="562.2" y="442.7" width="853" height="479.8"/>
+  </g>
+  <g class="cls-6">
+    <image width="4000" height="3000" transform="translate(507.6 365.6) scale(.3)" xlink:href="portfolio-2-1.png"/>
+  </g>
+  <g class="cls-5">
+    <image width="1200" height="1600" transform="translate(423.2 614.9) scale(.3)" xlink:href="portfolio-2-2.png"/>
+  </g>
+  <g id="Gazebo_top" data-name="Gazebo top">
+    <g>
+      <rect id="Left_Top" data-name="Left Top" class="cls-2" x="428" y="281.2" width="752.1" height="369.5" rx="36" ry="36"/>
+      <g class="cls-9">
+        <image width="4000" height="3000" transform="translate(293 -30.5) scale(.2)" xlink:href="portfolio-2-3.png"/>
+      </g>
+    </g>
+    <image width="4000" height="3000" transform="translate(293 -30.5) scale(.2)" xlink:href="portfolio-2-4.png"/>
+  </g>
+  <g id="right">
+    <g class="cls-7">
+      <image width="4000" height="3000" transform="translate(1778.9 88.5) rotate(90) scale(.2)" xlink:href="portfolio-2-5.png"/>
+    </g>
+  </g>
+</svg>
