@@ -84,7 +84,10 @@ nav{
 .al{position:relative;overflow:hidden;background:var(--ob);}
 .al-img{position:absolute;inset:0;}
 /* Real SVG file — object-fit:cover fills the panel correctly */
-.al-img img{width:100%;height:100%;display:block;position:absolute;inset:0;object-fit:cover;}
+.al-img img {width: 100%;height: 100%;display: block;position: absolute;inset: 0; object-fit: cover;  
+  /* Add this line - 1.0 is solid, 0.0 is invisible */
+  opacity: 0.25; 
+}
 .al-fade{position:absolute;bottom:0;left:0;right:0;height:60%;background:linear-gradient(to bottom,transparent,rgba(6,6,6,.98));pointer-events:none;z-index:2;}
 
 /* Text overlay — scrollable so long copy never hides */
@@ -613,13 +616,13 @@ const SITE_CONFIG = {
   ],
 
   portfolio: [
-    { src:"assets/portfolio/portfolio-1.svg", label:"Portfolio — 01" },
-    { src:"assets/portfolio/portfolio-2.svg", label:"Portfolio — 02" },
-    { src:"assets/portfolio/portfolio-3.svg", label:"Portfolio — 03" },
-    { src:"assets/portfolio/portfolio-4.svg", label:"Portfolio — 04" },
-    { src:"assets/portfolio/portfolio-5.svg", label:"Portfolio — 05" },
-    { src:"assets/portfolio/portfolio-6.svg", label:"Portfolio — 06" },
-    { src:"assets/portfolio/portfolio-7.svg", label:"Portfolio — 07" },
+    { src:"assets/portfolio/portfolio-1.png", label:"Graphic Work" },
+    { src:"assets/portfolio/portfolio-2.png", label:"Corporate Branding" },
+    { src:"assets/portfolio/portfolio-3.png", label:"Sportswear" },
+    { src:"assets/portfolio/portfolio-4.png", label:"3D Work" },
+    { src:"assets/portfolio/portfolio-5.png", label:"Environments" },
+    { src:"assets/portfolio/portfolio-6.png", label:"Compositing" },
+    { src:"assets/portfolio/portfolio-7.png", label:"Modeling" },
   ],
 };
 
